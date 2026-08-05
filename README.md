@@ -25,6 +25,7 @@ I am a Ph.D. Materials Scientist specializing in semiconductor process developme
 - Developing area-selective carbon nanotube integration processes for next-generation semiconductor devices using self-assembled monolayers, with process optimization through AFM, XPS, and FTIR surface characterization.
 - Collaborating with Stanford University as part of a joint TSMC research program to investigate exploratory channel materials and advance nanoscale semiconductor process integration.
 
+![Intel](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=intel&logoColor=0071C5)
 **Technical Research Intern @ Intel, Hillsboro(_May 2025 - Aug 2025_)** 
 - Developed and optimized flowable CVD oxide processes for Intel's 18A technology node by defining the hot ozone oxidation process window while preserving nanowire and spacer integrity.
 - Commissioned and qualified an in-fab FTIR metrology system by establishing calibration procedures, measurement protocols, and standardized workflows for inline chemical process monitoring.
