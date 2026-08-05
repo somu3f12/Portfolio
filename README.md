@@ -49,7 +49,7 @@ I am a Ph.D. Materials Scientist specializing in semiconductor process developme
 - Investigated how liquid-liquid phase separation (LLPS) influences tau protein aggregation by combining AFM-IR and OPTIR spectroscopy to monitor nanoscale structural evolution and secondary structure changes within protein condensates.
 - Identified experimental conditions that promote tau condensate formation and established a spectroscopic framework for correlating droplet morphology with aggregation pathways, providing mechanistic insights into Alzheimer's disease and a broadly applicable methodology for studying other neurodegenerative proteins.
 
-![Higss boson gives mass to particles](/assets/higgs.png) 
+![Unanswered Questions in LLPS Mediated Protein Aggregation](/assets/Research_gap.png) 
 
 
 ## Certifications
