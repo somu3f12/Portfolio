@@ -21,7 +21,9 @@ I am a Ph.D. Materials Scientist specializing in semiconductor process developme
 - Revealed a molecular mechanism linking amyloid beta and tau proteins by showing that Aβ42 dramatically accelerates tau fibril formation while remaining trapped as stable beta sheet-rich oligomers, providing new insight into Alzheimer's disease progression.
 - Established experimental and computational methodologies for investigating liquid-liquid phase separation and protein aggregation that can be extended to other neurodegenerative systems, creating a versatile platform for future therapeutic and biomolecular research.
   
-**Technical Research Intern @ TSMC @ Stanford, San Jose (_May 2026 - Nov 2026_)** <img src="https://cdn.simpleicons.org/tsmc" width="40">
+**Technical Research Intern @ TSMC @ Stanford, San Jose (_May 2026 - Nov 2026_)** <img src="https://cdn.simpleicons.org/tsmc" width="40"><a href="https://www.stanford.edu/" target="_blank">
+  <img src="images/stanford-logo.png" alt="Stanford University" width="45">
+</a>
 - Developing area-selective carbon nanotube integration processes for next-generation semiconductor devices using self-assembled monolayers, with process optimization through AFM, XPS, and FTIR surface characterization.
 - Collaborating with Stanford University as part of a joint TSMC research program to investigate exploratory channel materials and advance nanoscale semiconductor process integration.
 
