@@ -21,11 +21,11 @@ I am a Ph.D. Materials Scientist specializing in semiconductor process developme
 - Revealed a molecular mechanism linking amyloid beta and tau proteins by showing that Aβ42 dramatically accelerates tau fibril formation while remaining trapped as stable beta sheet-rich oligomers, providing new insight into Alzheimer's disease progression.
 - Established experimental and computational methodologies for investigating liquid-liquid phase separation and protein aggregation that can be extended to other neurodegenerative systems, creating a versatile platform for future therapeutic and biomolecular research.
   
-![TSMC](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=tsmc&logoColor=black)**Technical Research Intern @ TSMC @ Stanford, San Jose (_May 2026 - Nov 2026_)** 
+**Technical Research Intern @ TSMC @ Stanford, San Jose (_May 2026 - Nov 2026_)** 
 - Developing area-selective carbon nanotube integration processes for next-generation semiconductor devices using self-assembled monolayers, with process optimization through AFM, XPS, and FTIR surface characterization.
 - Collaborating with Stanford University as part of a joint TSMC research program to investigate exploratory channel materials and advance nanoscale semiconductor process integration.
 
-![Intel](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=intel&logoColor=0071C5)**Technical Research Intern @ Intel, Hillsboro(_May 2025 - Aug 2025_)** 
+<img src="https://cdn.simpleicons.org/intel/0071C5" alt="Intel" width="60">**Technical Research Intern @ Intel, Hillsboro(_May 2025 - Aug 2025_)** 
 - Developed and optimized flowable CVD oxide processes for Intel's 18A technology node by defining the hot ozone oxidation process window while preserving nanowire and spacer integrity.
 - Commissioned and qualified an in-fab FTIR metrology system by establishing calibration procedures, measurement protocols, and standardized workflows for inline chemical process monitoring.
 - Correlated FTIR and spectroscopic ellipsometry data with Si H consumption and Si O network formation to improve process repeatability, troubleshoot metrology variation, and support thin film integration decisions.
