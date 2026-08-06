@@ -1,23 +1,3 @@
-<table>
-<tr>
-<td>
-
-# Hi, I'm Saumya Satyarthy
-
-Ph.D. Candidate in Chemistry  
-Research Intern at TSMC collaborating with Stanford University
-
-</td>
-
-<td>
-
-<img src="MyIMG.jpeg" width="220">
-
-</td>
-</tr>
-</table># Graduate Student 
-
-
 ### Research Abstract 
 I am a Ph.D. Materials Scientist specializing in semiconductor process development, advanced surface characterization, and nanoscale materials engineering. My research bridges chemistry and semiconductor manufacturing through area-selective deposition, self-assembled monolayers, carbon nanotube integration, and chemical metrology. I enjoy transforming scientific ideas into scalable technologies for next-generation electronics.
 
