@@ -31,7 +31,7 @@ I am a Ph.D. Materials Scientist specializing in semiconductor process developme
 - Commissioned and qualified an in-fab FTIR metrology system by establishing calibration procedures, measurement protocols, and standardized workflows for inline chemical process monitoring.
 - Correlated FTIR and spectroscopic ellipsometry data with Si H consumption and Si O network formation to improve process repeatability, troubleshoot metrology variation, and support thin film integration decisions.
 
-**Research Intern @ IIT Kanpur, India(_May 2016 - June 2016_)**
+**Research Intern @ IIT Kanpur, India(_May 2016 - June 2016_)**![IIT Kanpur](https://img.shields.io/badge/-FFFFFF?style=for-the-badge&logo=iitkanpur)
 - Synthesized extended chiral guests((R)-phenylglycinol and o-bis-(isonicotinoyl)-phenylglycinol) to probe stereoselective binding within a zinc (II) bisporphyrin host-guest system, confirming structure and purity via NMR and ESI-Mass Spectrometry.
 - Investigated supramolecular chirality and host-guest complexation using Circular Dichroism and UV-Vis; observed the emergence of strong, diagnostic CD signals upon guest binding, providing clear evidence of a chiral, well-defined supramolecular complex.
 
