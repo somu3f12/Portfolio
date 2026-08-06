@@ -56,7 +56,7 @@ I am a Ph.D. Materials Scientist specializing in semiconductor process developme
 ## Certifications
 - ACS Meetings & Expositions Presenter at ACS Spring. - 2024 [Link](https://api.accredible.com/v1/auth/invite?code=cbbe1ef2e806156f9a04&credential_id=4f4873cb-052f-41b5-b21b-00f2065d6482&url=https%3A%2F%2Fcredentials.acs.org%2F4f4873cb-052f-41b5-b21b-00f2065d6482&ident=d541d7b2-edb8-4a14-9ba9-d5da529a7ab7)
 
-[Publications]([https://scholar.google.com/citations](https://scholar.google.com/citations?user=e94x7JMAAAAJ&hl=en)
+[Publications](https://scholar.google.com/citations?user=e94x7JMAAAAJ&hl=en)
 [Saumya-Spectrum](https://medium.com/@somu3f12)
 
 ## Feel free to connect with me!
