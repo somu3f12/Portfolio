@@ -1,0 +1,674 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+
+  <meta
+    name="viewport"
+    content="width=device-width, initial-scale=1.0"
+  >
+
+  <title>Saumya Satyarthy</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      color: #333333;
+      background: #ffffff;
+      line-height: 1.65;
+    }
+
+    .page-container {
+      display: grid;
+      grid-template-columns: 380px 1fr;
+      max-width: 1500px;
+      margin: 0 auto;
+      min-height: 100vh;
+    }
+
+    .left-panel {
+      position: sticky;
+      top: 0;
+      height: 100vh;
+      padding: 40px;
+      border-right: 1px solid #e5e5e5;
+      background: #ffffff;
+      overflow-y: auto;
+    }
+
+    .name {
+      margin-top: 0;
+      margin-bottom: 22px;
+      color: #3678b8;
+      font-size: 36px;
+      line-height: 1.2;
+    }
+
+    .profile-photo {
+      display: block;
+      width: 100%;
+      max-width: 300px;
+      height: auto;
+      object-fit: contain;
+      border-radius: 4px;
+    }
+
+    .profile-summary {
+      margin-top: 22px;
+      font-size: 16px;
+      color: #555555;
+    }
+
+    .contact-links {
+      margin-top: 24px;
+    }
+
+    .contact-links a {
+      display: block;
+      margin-bottom: 9px;
+      color: #3678b8;
+      text-decoration: none;
+    }
+
+    .contact-links a:hover {
+      text-decoration: underline;
+    }
+
+    .right-panel {
+      min-width: 0;
+      padding: 42px 70px 100px;
+    }
+
+    .main-title {
+      margin-top: 0;
+      margin-bottom: 30px;
+      font-size: 42px;
+      color: #111111;
+    }
+
+    section {
+      margin-bottom: 48px;
+    }
+
+    h2 {
+      margin-bottom: 18px;
+      padding-bottom: 8px;
+      font-size: 29px;
+      color: #222222;
+      border-bottom: 2px solid #eeeeee;
+    }
+
+    h3 {
+      margin-bottom: 7px;
+      color: #333333;
+      font-size: 20px;
+    }
+
+    h4 {
+      margin-bottom: 8px;
+      font-size: 18px;
+    }
+
+    p {
+      margin-top: 8px;
+      font-size: 17px;
+    }
+
+    ul {
+      padding-left: 22px;
+    }
+
+    li {
+      margin-bottom: 10px;
+      font-size: 16px;
+    }
+
+    .entry {
+      margin-bottom: 30px;
+      padding-bottom: 24px;
+      border-bottom: 1px solid #e5e5e5;
+    }
+
+    .entry-title {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .organization-logo {
+      width: auto;
+      height: 38px;
+      object-fit: contain;
+    }
+
+    .project-image {
+      width: 100%;
+      max-width: 750px;
+      height: auto;
+      margin-top: 18px;
+    }
+
+    .university-logo {
+      width: 150px;
+      height: auto;
+      margin-top: 24px;
+    }
+
+    a {
+      color: #3678b8;
+    }
+
+    @media screen and (max-width: 850px) {
+      .page-container {
+        display: block;
+      }
+
+      .left-panel {
+        position: relative;
+        height: auto;
+        text-align: center;
+        border-right: none;
+        border-bottom: 1px solid #e5e5e5;
+      }
+
+      .profile-photo {
+        max-width: 280px;
+        margin: 0 auto;
+      }
+
+      .right-panel {
+        padding: 35px 24px 80px;
+      }
+
+      .main-title {
+        font-size: 34px;
+      }
+
+      .entry-title {
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <main class="page-container">
+
+    <!-- Everything inside this section remains on the left -->
+
+    <aside class="left-panel">
+
+      <h1 class="name">
+        Saumya Satyarthy
+      </h1>
+
+      <img
+        src="profile.jpg"
+        alt="Saumya Satyarthy"
+        class="profile-photo"
+      >
+
+      <p class="profile-summary">
+        Ph.D. Materials Scientist specializing in semiconductor process
+        development, advanced surface characterization, and nanoscale
+        materials engineering.
+      </p>
+
+      <div class="contact-links">
+
+        <a href="mailto:ssatyarthy@crimson.ua.edu">
+          University Email
+        </a>
+
+        <a href="mailto:saumyasatyarthy@gmail.com">
+          Personal Email
+        </a>
+
+        <a
+          href="https://github.com/somu3f12"
+          target="_blank"
+        >
+          GitHub
+        </a>
+
+        <a
+          href="https://www.linkedin.com/in/saumya-satyarthy"
+          target="_blank"
+        >
+          LinkedIn
+        </a>
+
+        <a
+          href="https://scholar.google.com/citations?user=e94x7JMAAAAJ&hl=en"
+          target="_blank"
+        >
+          Google Scholar
+        </a>
+
+        <a
+          href="https://medium.com/@somu3f12"
+          target="_blank"
+        >
+          Saumya Spectrum
+        </a>
+
+        <a
+          href="https://www.instagram.com/sammy_satyarthy/"
+          target="_blank"
+        >
+          Instagram
+        </a>
+
+      </div>
+
+      <img
+        src="UALOGO.png"
+        alt="University of Alabama"
+        class="university-logo"
+      >
+
+    </aside>
+
+    <!-- Everything inside this section scrolls on the right -->
+
+    <article class="right-panel">
+
+      <h1 class="main-title">
+        Research Scientist
+      </h1>
+
+      <section>
+
+        <h2>Research Abstract</h2>
+
+        <p>
+          I am a Ph.D. Materials Scientist specializing in semiconductor
+          process development, advanced surface characterization, and
+          nanoscale materials engineering. My research bridges chemistry
+          and semiconductor manufacturing through area selective
+          deposition, self assembled monolayers, carbon nanotube
+          integration, and chemical metrology. I enjoy transforming
+          scientific ideas into scalable technologies for next generation
+          electronics.
+        </p>
+
+        <h3>Technical Skills</h3>
+
+        <p>
+          <strong>Surface Characterization:</strong>
+          AFM, AFM IR, O PTIR, FTIR, Raman, XPS, SEM, XRD, UV Vis,
+          and Spectroscopic Ellipsometry
+        </p>
+
+        <p>
+          <strong>Process Development:</strong>
+          ALD, Area Selective ALD, Flowable CVD, SAMs, and Thin Film
+          Engineering
+        </p>
+
+        <p>
+          <strong>Programming and Software:</strong>
+          MATLAB, JMP, OriginPro, ImageJ, CasaXPS, Gwyddion, and
+          SOLIDWORKS
+        </p>
+
+      </section>
+
+      <section>
+
+        <h2>Education</h2>
+
+        <div class="entry">
+          <h3>Ph.D. in Chemistry</h3>
+
+          <p>
+            The University of Alabama, Tuscaloosa
+          </p>
+
+          <p>
+            Expected May 2027
+          </p>
+        </div>
+
+        <div class="entry">
+          <h3>M.S. in Chemistry</h3>
+
+          <p>
+            The University of Alabama, Tuscaloosa
+          </p>
+
+          <p>
+            August 2024
+          </p>
+        </div>
+
+        <div class="entry">
+          <h3>Integrated M.S. in Chemistry</h3>
+
+          <p>
+            National Institute of Science Education and Research
+          </p>
+
+          <p>
+            July 2019
+          </p>
+        </div>
+
+      </section>
+
+      <section>
+
+        <h2>Research Experience</h2>
+
+        <div class="entry">
+
+          <div class="entry-title">
+            <h3>
+              Graduate Student, University of Alabama
+            </h3>
+          </div>
+
+          <p>
+            August 2021 to Present
+          </p>
+
+          <ul>
+            <li>
+              Led the development of area selective ALD processes using
+              molecular inhibitor chemistry on Cu and Co surfaces,
+              extending deposition selectivity to 25 to 50 ALD cycles.
+              Engineered fluorinated benzoic acid inhibitors that
+              delivered approximately 96 percent higher blocking
+              efficiency than conventional nonfluorinated molecules.
+            </li>
+
+            <li>
+              Performed nanoscale materials characterization using
+              AFM IR, O PTIR, XPS, and FTIR to investigate thin films,
+              buried interfaces, and surface chemistry.
+            </li>
+
+            <li>
+              Developed PCA, NNMF, and machine learning based spectral
+              analysis workflows to accelerate interpretation of large
+              vibrational spectroscopy datasets.
+            </li>
+
+            <li>
+              Revealed a molecular mechanism linking amyloid beta and
+              tau proteins by showing that amyloid beta 42 accelerates
+              tau fibril formation while remaining trapped as stable
+              beta sheet rich oligomers.
+            </li>
+          </ul>
+
+          <p>
+            <a
+              href="https://www.mdpi.com/2079-4991/13/19/2713"
+              target="_blank"
+            >
+              View 2023 publication
+            </a>
+          </p>
+
+          <p>
+            <a
+              href="https://www.mdpi.com/2079-4991/15/3/164"
+              target="_blank"
+            >
+              View 2025 publication
+            </a>
+          </p>
+
+        </div>
+
+        <div class="entry">
+
+          <div class="entry-title">
+
+            <h3>
+              Technical Research Intern, TSMC and Stanford University
+            </h3>
+
+            <img
+              src="assets/tsmc-logo.png"
+              alt="TSMC"
+              class="organization-logo"
+            >
+
+            <img
+              src="https://upload.wikimedia.org/wikipedia/en/b/b7/Stanford_University_seal_2003.svg"
+              alt="Stanford University"
+              class="organization-logo"
+            >
+
+          </div>
+
+          <p>
+            May 2026 to November 2026
+          </p>
+
+          <ul>
+            <li>
+              Developing area selective carbon nanotube integration
+              processes for next generation semiconductor devices using
+              self assembled monolayers.
+            </li>
+
+            <li>
+              Optimizing nanoscale processes through AFM, XPS, and FTIR
+              surface characterization.
+            </li>
+
+            <li>
+              Collaborating with Stanford University through a joint
+              TSMC research program to investigate exploratory channel
+              materials.
+            </li>
+          </ul>
+
+        </div>
+
+        <div class="entry">
+
+          <div class="entry-title">
+
+            <h3>
+              Technical Research Intern, Intel
+            </h3>
+
+            <img
+              src="https://cdn.simpleicons.org/intel/0071C5"
+              alt="Intel"
+              class="organization-logo"
+            >
+
+          </div>
+
+          <p>
+            Hillsboro, Oregon
+          </p>
+
+          <p>
+            May 2025 to August 2025
+          </p>
+
+          <ul>
+            <li>
+              Developed and optimized flowable CVD oxide processes for
+              Intel 18A technology by defining the hot ozone oxidation
+              process window while preserving nanowire and spacer
+              integrity.
+            </li>
+
+            <li>
+              Commissioned and qualified an in fab FTIR metrology system
+              by establishing calibration procedures, measurement
+              protocols, and standardized workflows.
+            </li>
+
+            <li>
+              Correlated FTIR and spectroscopic ellipsometry data with
+              silicon hydrogen consumption and silicon oxygen network
+              formation.
+            </li>
+          </ul>
+
+        </div>
+
+        <div class="entry">
+
+          <h3>
+            Research Intern, IIT Kanpur
+          </h3>
+
+          <p>
+            May 2016 to June 2016
+          </p>
+
+          <ul>
+            <li>
+              Synthesized extended chiral guests to probe stereoselective
+              binding within a zinc bisporphyrin host guest system.
+            </li>
+
+            <li>
+              Confirmed molecular structure and purity using NMR and
+              ESI mass spectrometry.
+            </li>
+
+            <li>
+              Investigated supramolecular chirality using circular
+              dichroism and UV Vis spectroscopy.
+            </li>
+          </ul>
+
+        </div>
+
+        <div class="entry">
+
+          <h3>
+            Research Intern, National Chemical Laboratory Pune
+          </h3>
+
+          <p>
+            May 2017 to June 2017
+          </p>
+
+          <ul>
+            <li>
+              Built an FTIR based calibration model relating vibrational
+              frequency shifts to local electric fields with an R squared
+              value of 0.96.
+            </li>
+
+            <li>
+              Quantified the electrostatic sensitivity of thiocyanate
+              probes using spectroscopy and molecular modeling.
+            </li>
+          </ul>
+
+        </div>
+
+      </section>
+
+      <section>
+
+        <h2>Projects</h2>
+
+        <div class="entry">
+
+          <h3>
+            Three Dimensional NiCoP Hollow Spheres for Hydrogen Evolution
+            and Supercapacitor Applications
+          </h3>
+
+          <ul>
+            <li>
+              Designed and characterized three dimensional NiCoP hollow
+              nanostructures using a hydrothermal process and XRD.
+            </li>
+
+            <li>
+              Demonstrated hydrogen evolution performance of
+              approximately 160 mV at 10 mA per square centimeter with
+              18 hours of operational stability.
+            </li>
+
+            <li>
+              Engineered supercapacitor electrodes delivering
+              approximately 960 F per gram with approximately 95 percent
+              capacity retention after 10000 cycles.
+            </li>
+          </ul>
+
+        </div>
+
+        <div class="entry">
+
+          <h3>
+            Spatially Resolved Spectroscopic Investigation of Tau Protein
+            Phase Separation
+          </h3>
+
+          <ul>
+            <li>
+              Investigated how liquid liquid phase separation influences
+              tau protein aggregation using AFM IR and O PTIR
+              spectroscopy.
+            </li>
+
+            <li>
+              Established a spectroscopic framework for correlating
+              condensate morphology with protein aggregation pathways.
+            </li>
+          </ul>
+
+          <img
+            src="assets/Research_gap.png"
+            alt="Unanswered Questions in LLPS Mediated Protein Aggregation"
+            class="project-image"
+          >
+
+        </div>
+
+      </section>
+
+      <section>
+
+        <h2>Certification</h2>
+
+        <p>
+          ACS Meetings and Expositions Presenter at ACS Spring 2024
+        </p>
+
+        <p>
+          <a
+            href="https://api.accredible.com/v1/auth/invite?code=cbbe1ef2e806156f9a04&credential_id=4f4873cb-052f-41b5-b21b-00f2065d6482"
+            target="_blank"
+          >
+            View certificate
+          </a>
+        </p>
+
+      </section>
+
+    </article>
+
+  </main>
+
+</body>
+
+</html>
