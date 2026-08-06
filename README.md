@@ -1,4 +1,21 @@
-# Graduate Student 
+<table>
+<tr>
+<td>
+
+# Hi, I'm Saumya Satyarthy
+
+Ph.D. Candidate in Chemistry  
+Research Intern at TSMC collaborating with Stanford University
+
+</td>
+
+<td>
+
+<img src="MyIMG.jpeg" width="220">
+
+</td>
+</tr>
+</table># Graduate Student 
 
 
 ### Research Abstract 
